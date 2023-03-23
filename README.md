@@ -1,5 +1,5 @@
 # Bakery
-An console application written in C for managing a bakery. Includes undo/redo, filter and tests.
+A console application written in C for managing a bakery. Includes undo/redo, filter and tests.
 
 
 Mary runs her family's bakery, “Bread'n Bagel”. Every day she struggles with keeping up to date with available stocks of raw materials and would like a program to help her manage the business more effectively. Each Material used in the bakery has: a name, a supplier, a quantity and the expiration date. Mary wants a software application that helps her in the following ways:
